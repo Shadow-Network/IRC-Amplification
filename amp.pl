@@ -1,14 +1,14 @@
-
   #!/usr/bin/perl
   
 	#Use: perl a.pl -h irc.shadow-network.net -p 6667 -c shadow -b Morgoth -s senha
 	#|##############################################################################|#
-	#                                Made in Shadow-NetworK                          #
-	#                                    By H3LLS1NG                                 #
+	#                              Made in Shadow-NetworK                            #
+	#                                   By H3LLS1NG                                  #
 	# Greetz: nbdu1nder, Shíva, mitt1sx, Akir4, Ins3rt, Constantine, Chainksain, &   #
-	# nerdzin159, BurN-, ChinaTowN, depois, SynChr0nize, KillerYBR, LomBroZo, etc    #
+	#             nerdzin159, depois, SynChr0nize, KillerYBR, MRC, etc               #
 	#                    MORGOTH BOT - Aquele que se ergue em poder                  #
-	# Para dar comandos no bot digite Morgoth antes, ex: Morgoth:!login master       #
+	# Para dar comandos no bot digite ShadowBot antes, ex: Morgoth:!help             #
+	# To give commands to the bot type ShadowBot before, ex: ShadowBot:!help         #
 	#|##############################################################################|#
   
   # Lista de nicks 'master'.
