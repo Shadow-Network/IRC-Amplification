@@ -8,7 +8,7 @@
 	#             nerdzin159, depois, SynChr0nize, KillerYBR, MRC, etc               #
 	#                    MORGOTH BOT - Aquele que se ergue em poder                  #
 	# Para dar comandos no bot digite ShadowBot antes, ex: Morgoth:!help             #
-	# To give commands to the bot type ShadowBot before, ex: ShadowBot:!help         #
+	# To give commands to the bot type ShadowBot before, ex: Morgoth:!help         #
 	#|##############################################################################|#
   
   # Lista de nicks 'master'.
