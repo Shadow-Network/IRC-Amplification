@@ -1,5 +1,5 @@
 # IRC-Amplification
-#Usage: perl amp.pl -h irc.shadow-network.net -p 6667 -c shadow -b ShadowBot -m NULL -s NULL
+#Usage: perl amp.pl -h irc.shadow-network.net -p 6667 -c shadow -b Morgoth -m NULL -s NULL
 
 PT:Coloque os amp na mesma pasta que o bot está, junto com as listas de amplificação. Quer editar algo na execução das listas/etc edite a partir da função amplification (linha 334).
 
